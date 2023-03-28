@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../LapTrinhHuongDoiTuong-main/LapTrinhHuongDoiTuong-main/Pair Programming 1/Bai06"
+		},
+		{
+			"path": "../../LapTrinhHuongDoiTuong-main/LapTrinhHuongDoiTuong-main/Pair Programming 1/Bai08"
+		},
+		{
+			"path": "../../LapTrinhHuongDoiTuong-main/LapTrinhHuongDoiTuong-main/Pair Programming 1/Bai05"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"xstring": "cpp",
+			"iostream": "cpp",
+			"string": "cpp"
+		}
+	}
+}
