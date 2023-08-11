@@ -1,0 +1,10 @@
+Trong lập trình hướng đối tượng, con trỏ, kế thừa và hàm ảo đều đóng vai trò quan trọng trong việc tạo nên tính đa hình. Tính đa hình cho phép một giao diện duy nhất được cung cấp cho các thực thể của nhiều loại khác nhau.
+
+- 1. Hàm ảo là một hàm có thể được kế thừa và ghi đè, cho phép việc gửi động được thực hiện. Điều này là một phần quan trọng của tính đa hình trong lập trình hướng đối tượng.
+
+- 2. Kế thừa cho phép một lớp dẫn xuất kế thừa các thuộc tính và phương thức từ lớp cơ sở của nó. Điều này cho phép các đối tượng của lớp dẫn xuất được coi như là một loại của lớp cơ sở và sử dụng các phương thức đã được ghi đè.
+
+- 3. Con trỏ có thể được sử dụng để trỏ đến các đối tượng của nhiều loại khác nhau và cho phép việc gọi các phương thức đã được ghi đè thông qua con trỏ.
+
+Tóm lại, con trỏ, kế thừa và hàm ảo cùng nhau tạo nên tính đa hình trong lập trình hướng đối tượng.
+

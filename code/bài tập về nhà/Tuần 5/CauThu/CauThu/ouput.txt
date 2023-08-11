@@ -1,0 +1,4 @@
+0
+C17 Thu Mon 7 7 30
+C10 Thu Mon 7 7 50
+C11 Tien Dao 8 8 100
